@@ -1,11 +1,11 @@
 ## Hi, I'm Ketil!
 
-I'm a junior full-stack developer who enjoys building clean, efficient, and user-friendly applications.<br/>
+I'm a full-stack developer who enjoys building clean, efficient, and user-friendly applications.<br/>
 I like working across the stack, from creating APIs and backend services to building modern frontend interfaces.<br/>
 I also enjoy system development, planning solutions, and using UML to design clear and structured architectures.<br/>
 I'm always exploring new tools, frameworks, and best practices to grow as a developer.<br/>
 
-👩‍💻 Junior full-stack developer sharing my journey in tech<br/>
+👩‍💻 Full-stack developer sharing my journey in tech<br/>
 🧑‍🎓 Studied [Information Technology](https://www.hvl.no/studier/studieprogram/informasjonsteknologi-forde/) at the Western Norway University of Applied Sciences<br/>
 🌱 Currently learning more about Javascript/React and deepening my backend skills in Go.<br/>
 
